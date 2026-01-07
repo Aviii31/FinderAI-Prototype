@@ -103,5 +103,3 @@ For security reasons, API keys (Google Maps, Firebase) have been restricted or r
 * *Add your teammates here!*
 
 ---
-
-Built with ❤️ for [Hackathon Name]
